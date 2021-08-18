@@ -3,8 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "NavAreas/NavArea.h"
-#include "NavMeshPath.h"
+#include "NavigationSystem/Public/NavAreas/NavArea.h"
+#include "NavigationSystem/Public/NavMesh/NavMeshPath.h"
 #include "NavArea_Crouch.generated.h"
 
 /**
